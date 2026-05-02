@@ -7,7 +7,7 @@ This project presents a wearable IoT health monitoring system using an **ESP32**
 
 ### 📄 Conference Paper
 You can access the full technical paper, methodology, and experimental results here:
-<a href="https://github.com/harshithagandluri/AN-IOT-BASED-REAL-TIME-HEALTH-MONITORING-SYSTEM-WITH-INTEGRATED-FALL-DETECTION-AND-CLOUD-ANALYTICS/blob/main/IEEE_Conference_Template__2_.pdf">**View Official Conference Paper (PDF)**</a>
+<a href="https://github.com/harshithagandluri/Health-Monitoring-System/blob/main/IEEE_Conference_Template__2_.pdf">**View Official Conference Paper (PDF)**</a>
 
 ---
 
